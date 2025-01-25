@@ -1,3 +1,5 @@
+🚲 Bike Sales Data Analysis
+
 #  Overview
 This project presents an in-depth analysis of a bike sales dataset. The dataset includes various attributes related to customer demographics, product categories, sales figures, and more. The goal of this project is to derive actionable insights that can help retailers understand customer behavior, optimize sales, and enhance marketing strategies.
 # Key Features
